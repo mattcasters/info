@@ -124,7 +124,7 @@ Tech Stream
 - [Know BI](): Metadata injection driven map-reduce
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
-- [Matt Casters (Pentaho)]: Develop transformations faster and better with data sets and unit tests 
+- [Matt Casters (Pentaho)](http://www.ibridge.be): Develop transformations faster and better with data sets and unit tests 
 
 Business Stream
 
